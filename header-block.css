@@ -1,0 +1,15 @@
+.header {
+    max-width: 1200px;
+    max-height: 142px;
+    text-align: center;
+    display: flex;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+.nav {
+    display: flex; 
+    font-size: 18px;
+}
+.photo {
+    display: flex;
+}

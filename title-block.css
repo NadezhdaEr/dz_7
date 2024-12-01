@@ -1,0 +1,16 @@
+.title-block {
+    max-width: 1600px;
+    max-height: 500px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 0 15px;
+    background-image: url(./images/village.jpg);
+}
+
+.text1 {
+    font-size: 60px;
+}
+
+.text2 {
+    font-size: 24px;
+}

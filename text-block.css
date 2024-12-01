@@ -1,0 +1,14 @@
+
+.text-block {
+    max-width: 704px;
+    max-height: 96px;
+    text-align: center;
+    display: flex;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+.text3 {
+    font-size: 40px;
+    font-style: italic;
+    text-align: center;
+}
