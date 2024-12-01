@@ -1,0 +1,46 @@
+.reviews-block {
+    max-width: 1600px;
+    max-height: 397x;
+    text-align: center;
+    margin: auto;
+    padding: 0 15px;
+    background-color: rgba(247, 242, 234, 1);
+}
+.text5 {
+    font-size: 40px;
+    text-align: center;
+}
+
+.cards-reviews {
+    max-width: 1198px;
+    max-height: 169;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: justify;
+    margin: auto;
+
+}
+.card-reviews {
+    max-width: 280px;
+    max-height: 169;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: justify;
+    margin: auto;
+
+}
+.block-reviews{
+    
+}
+
+.subtitle-reviews {
+    font-family: 'Open Sans';
+    font-style: italic;
+    font-size: 16px;
+}
+
+.subtitle-reviews2 {
+    font-family: 'Open Sans';
+    font-size: 20px;
+}
+

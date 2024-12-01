@@ -1,0 +1,44 @@
+.prioritise-block {
+    max-width: 1600px;
+    max-height: 520x;
+    text-align: center;
+    margin: auto;
+    padding: 0 15px;
+
+}
+        
+.text6 {
+    font-size: 40px;
+    text-align: center;
+}
+
+.cards-prioritise {
+    max-width: 1199px;
+    max-height: 178;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    margin: auto;
+}
+
+.card-prioritise {
+    max-width: 248px;
+    max-height: 178;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    margin: auto;
+}
+
+.block-prioritise
+
+.subtitle-prioritise {
+    font-family: 'Open Sans';
+    font-size: 30px;
+}
+
+.subtitle-prioritise2 {
+    font-family: 'Open Sans';
+    font-size: 20px;
+
+}
