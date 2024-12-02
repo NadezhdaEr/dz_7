@@ -1,6 +1,6 @@
 .reviews-block {
     max-width: 1600px;
-    max-height: 397x;
+    max-height: 397px;
     text-align: center;
     margin: auto;
     padding: 0 15px;
@@ -13,7 +13,7 @@
 
 .cards-reviews {
     max-width: 1198px;
-    max-height: 169;
+    max-height: 169px;
     display: flex;
     flex-wrap: wrap;
     text-align: justify;
@@ -22,7 +22,7 @@
 }
 .card-reviews {
     max-width: 280px;
-    max-height: 169;
+    max-height: 169px;
     display: flex;
     flex-wrap: wrap;
     text-align: justify;

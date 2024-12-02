@@ -1,0 +1,60 @@
+.connect-block {
+    max-width: 1600px;
+    max-height: 418px;
+    text-align: center;
+    margin: auto;
+    padding: 0 15px;
+
+}
+
+.text7 {
+    font-size: 40px;
+    text-align: justify;
+}
+
+.cards-connect {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: justify;
+    margin: auto;
+}
+
+.card-connect {
+    max-width: 580px;
+    max-height: 120px;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: justify;
+    margin: auto;
+
+}
+
+.subtitle-connect {
+    font-family: 'Open Sans';
+    font-size: 20px;
+    text-align: justify;
+
+}
+.subtitle-connect2 {
+    font-family: 'Open Sans';
+    font-size: 13px;
+    text-align: justify;
+}
+.join {
+    display: flex;
+    margin: 0 auto;
+    font-family: 'Open Sans';
+    font-size: 20px;
+    font-weight: 300px;
+    line-height: 27.24px;
+    text-align: center;
+    border: 1px solid #151618;
+    background-color: white;
+    padding: 12px 41px;
+    transition: all 0.2s ease-in 0s;
+    cursor: pointer;
+}
+
+.join:hover {
+    background-color: rgb(226, 226, 226);
+}
